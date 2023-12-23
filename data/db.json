@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam nemo, sit eveniet ea doloremque distinctio nihil accusamus saepe voluptates sunt illum libero hic veniam laboriosam quia aperiam. Dignissimos impedit iste voluptatum necessitatibus, ut consectetur suscipit nesciunt quidem similique reiciendis debitis quisquam, harum nisi autem quasi minus aliquid odit esse amet., why do we use it? ",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "My second Blog",
+      "body": "why do we use it? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam nemo, sit eveniet ea doloremque distinctio nihil accusamus saepe voluptates sunt illum libero hic veniam laboriosam quia aperiam. Dignissimos impedit iste voluptatum necessitatibus, ut consectetur suscipit nesciunt quidem similique reiciendis debitis quisquam, harum nisi autem quasi minus aliquid odit esse amet.",
+      "author": "davita",
+      "id": 2
+    },
+    {
+      "title": "digital monet",
+      "body": "dasiodjsaopdsajdsao",
+      "author": "davita",
+      "id": 3
+    }
+  ]
+}
